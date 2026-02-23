@@ -1,5 +1,4 @@
 {
-    "image": "karun001/elx_sandbox:latest",
     "build": { "dockerfile": "Dockerfile"},
     "customizations": {
       "vscode": {

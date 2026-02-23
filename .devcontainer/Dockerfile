@@ -3,4 +3,4 @@
 # Author: Piyush Itankar <piyush@inpyjama.com>
 #
 
-FROM pyjamacafe/sandbox:latest
+FROM karun001/elx_sandbox:latest

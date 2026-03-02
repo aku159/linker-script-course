@@ -30,6 +30,7 @@
             "davidbwaters.macos-modern-theme",
             "maziac.hex-hover-converter",
             "ms-vscode.hexeditor",
+            "rust-lang.rust-analyzer",
             "trond-snekvik.gnu-mapfiles"
           ]
       }

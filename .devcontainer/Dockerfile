@@ -3,4 +3,4 @@
 # Author: Piyush Itankar <piyush@inpyjama.com>
 #
 
-FROM karun001/arm_sbox:v0.1
+FROM karun001/arm_sbox:v0.2
